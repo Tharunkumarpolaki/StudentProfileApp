@@ -22,7 +22,7 @@ This project demonstrates basic Android development concepts including UI design
 
 # 📱 Application Screens
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 12, 2026, 11_07_40 PM" src="https://github.com/user-attachments/assets/87b700c0-5c23-4a27-a57f-b4817dbec1ae" />
+![alt text](navya-1.jpeg)
 
 
 ---
@@ -131,3 +131,6 @@ This project is created for **educational purposes**.
 ---
 
 ⭐ If you like this project, consider giving it a **star** on GitHub.
+
+
+[def]: navya.jpeg
