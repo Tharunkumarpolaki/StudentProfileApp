@@ -22,7 +22,7 @@ This project demonstrates basic Android development concepts including UI design
 
 # 📱 Application Screens
 
-![alt text](navya-1.jpeg)
+![alt text](tarun.jpeg)
 
 
 ---
